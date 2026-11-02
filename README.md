@@ -18,9 +18,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/maikolcid">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maikolcid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maikolcid&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Mike-Cid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mike-Cid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mike-Cid&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
